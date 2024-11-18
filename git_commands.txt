@@ -1,0 +1,25 @@
+Github command -revison
+Git config --global username “”
+Git config --global  email””
+Git init
+Git status
+Git add
+Git add –all
+Git commit -m
+Git restore 
+Git branch name
+Git checkout branch name
+Git checkout -b
+Git remote set-url origin
+Git remote target
+Git remote -a
+Git remote -v
+git pull
+git push origin branch name 
+cd,mv,rm
+$ git remote add origin https://github.com/ymjfakruddin/Learning_git.git
+mkdir
+git help command
+git help –all
+git commad name  -help
+
