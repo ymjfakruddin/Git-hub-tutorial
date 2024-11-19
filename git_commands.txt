@@ -30,4 +30,6 @@ git log
 git log --oneline
 Date : 11/19/2024
 git remote add origin 
-git int
+git init
+And HTTPS link will add the remote repository to connect with local repository with a secure network and this will copy from Github & paste in the git bash here with command git remote add origin and paste the link .
+We hava ssh also 
