@@ -55,6 +55,7 @@ git pull
 git log
 git log -oneline
 git revert 
+git fetch origin 
 
 git unrelated histories
 occurs when you attempt to merge two Git repositories that have completely separate commit histories. This typically happens if the local repository and the remote repository were initialized independently (e.g., both were created with git init but were not connected initially).
@@ -67,7 +68,8 @@ Copy code
 git pull origin master --allow-unrelated-histories
 This will combine the two histories, resolving the issue. After running this command, Git will attempt to merge the histories, and you may need to resolve any conflicts if they exist..
 
-
+git push origin master force 
+git push prigin   master --allow-unrelated-histories
 
 
 
