@@ -1,5 +1,9 @@
 Github command -revison
-Git config --global username “”
+Git config --global username “”//git config --global user.name"user name"
+                                git config --global user.email"email ID"
+
+
+//
 Git config --global  email””
 Git init
 Git status
@@ -9,7 +13,7 @@ Git commit -m
 Git restore 
 Git branch name
 Git checkout branch name
-Git checkout -b
+Git checkout -b branch name 
 Git remote set-url origin
 Git remote target
 Git remote -a
@@ -32,5 +36,26 @@ Date : 11/19/2024
 git remote add origin 
 git init
 And HTTPS link will add the remote repository to connect with local repository with a secure network and this will copy from Github & paste in the git bash here with command git remote add origin and paste the link .
-We have ssh also 
+Date :11/20/2024
+We have ssh  it means used for unsecured network this protocol is used in git
+git config --global user.email " "
+git config --global user.name " "
+git init 
+git status 
+git add -all
+git commit -m
+git restore 
+git remote add origin
+git remote set_URL 
+git checkout
+git branch
+git branch name
+git push origin branch name
+git pull 
+git log
+git log -oneline
+git revert 
+
+
+
 
