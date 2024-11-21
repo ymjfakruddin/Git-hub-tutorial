@@ -70,6 +70,30 @@ This will combine the two histories, resolving the issue. After running this com
 
 git push origin master force 
 git push prigin   master --allow-unrelated-histories
+date 11/21/2024
+git config -global user.email""
+git config =global user.name
+git init
+git status
+git add --all
+git commit -m" "
+git branch
+git branch branch name
+git checkout branch name
+git checkout -b newbranch name
+git remote add origin "link of https"
+git remote set URL
+git push origin branch name
+git clone link
+git pull origin branch name
+git log 
+git fetch origin 
+git log -oneline
+git pull
+git push origin master force 
+it will override the files in GitHub
+git push origin master -allow-unrelated-histories  //it is used to merge histories
+
 
 
 
