@@ -92,7 +92,7 @@ git log -oneline
 git pull
 git push origin master force 
 it will override the files in GitHub
-git push origin master -allow-unrelated-histories  //it is used to merge histories
+git pull origin master -allow-unrelated-histories  //it is used to merge  unrelated histories becoz same repostiories working by two people
 
 
 
