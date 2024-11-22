@@ -93,6 +93,38 @@ git pull
 git push origin master force 
 it will override the files in GitHub
 git pull origin master -allow-unrelated-histories  //it is used to merge  unrelated histories becoz same repostiories working by two people
+date:11/22/2024
+git config -global user.email""
+git config -global user.name""
+git init
+git status 
+git add --all
+git commit -m"message"
+git branch /name
+git checkout /branch name 
+git checkout -b
+git remote add origin 
+git remote  set-url
+git remote -a
+git remote -v 
+git fetech origin 
+git log
+git log -oneline
+git fetch origin 
+git push origin branch name
+git push 
+git clone s
+git pull 
+git pull origin master
+git merge branch name
+git pull origin master -allow-unrelated-histories
+git push origin master force
+ls 
+mkdir
+cd
+rmdir
+touch 
+grep 
 
 
 
