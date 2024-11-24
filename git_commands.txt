@@ -125,7 +125,49 @@ cd
 rmdir
 touch 
 grep 
+date :11/24/2024
+git comfig --global user.name
+git config --global user.email
+git init
+git status 
+git add . or add file name or add --all
+git commit -m
+git remote add origin 
+git remote  set -url 
+git remote -v
+git remote -a
+git remote
+git push -u origin branch name
+git push 
+git clone
+git pull origin master
+git pull origin master allow-unrelated -histories
+git push origin master --force
+git fetch origin 
+git push -u origin master
+-u set upstream
+git pull 
+git branch 
+git checkout 
+git switch 
+git checkout -b
+git switch origin master
+git log
+git log --oneline
+git DIFF
+head will point current branch which we are working currently
+git merge
+to delete branch in git  
+git branch -d branch name
 
+undo commands
+git reset  --head
+git restore 
+git revert 
+git 
+
+ 
+ 
 
 
 
