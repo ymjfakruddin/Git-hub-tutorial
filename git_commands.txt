@@ -164,7 +164,7 @@ undo commands
 git reset  --head
 git restore 
 git revert 
-git 
+it has http and ssh links of it 
 
  
  
