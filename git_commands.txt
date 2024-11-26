@@ -55,7 +55,7 @@ git pull
 git log
 git log -oneline
 git revert 
-git fetch origin 
+git fetch origin git.txt
 
 git unrelated histories
 occurs when you attempt to merge two Git repositories that have completely separate commit histories. This typically happens if the local repository and the remote repository were initialized independently (e.g., both were created with git init but were not connected initially).
@@ -150,7 +150,7 @@ git pull
 git branch 
 git checkout 
 git switch 
-git checkout -b
+git checkout -bgit
 git switch origin master
 git log
 git log --oneline
@@ -165,42 +165,6 @@ git reset  --head
 git restore 
 git revert 
 it has http and ssh links of it 
-Date:  25/11/2024
-git config --global user.name
-git config --global user.email
-git init
-git status
-git add --all or .
-git commit -m"message "
-git branch
-git checkout -b 
-git checkout branch name
-git switch 
-git branch -d branch name // it is to delete the branch
-git remote add origin 
-git remote set --url origin 
-git push -u origin master
-git push origin master(you can give u r own branch name)
-git push origin master --force (be careful using this command)
-git remote -v
-git remote remove 
-git pull origin master
-git clone
-git pull origin master --allow-unrelated--histories
-git pull
-git reset
-git restore
-git revoke
-git fetch origin
-git log 
-git log --oneline
-cd 
-ls
-cd ..
-mkdir rmdir touch grep 
-git  merge 
-git diff
-
 
  
  
