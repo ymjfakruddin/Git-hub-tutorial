@@ -168,6 +168,7 @@ it has http and ssh links of it
 
 
 Now I am added
+date :11/27/2024
 
 git config --global user.email and user.name
 git init
