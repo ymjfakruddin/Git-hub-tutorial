@@ -165,6 +165,48 @@ git reset  --head
 git restore 
 git revert 
 it has http and ssh links of it 
+<<<<<<< HEAD
+=======
+Date:  25/11/2024
+git config --global user.name
+git config --global user.email
+git init
+git status
+git add --all or .
+git commit -m"message "
+git branch
+git checkout -b 
+git checkout branch name
+git switch 
+git branch -d branch name // it is to delete the branch
+git remote add origin 
+git remote set --url origin 
+git push -u origin master
+git push origin master(you can give u r own branch name)
+git push origin master --force (be careful using this command)
+git remote -v
+git remote remove 
+git pull origin master
+git clone
+git pull origin master --allow-unrelated--histories
+git pull
+git reset
+git restore
+git revoke
+git fetch origin
+git log 
+git log --oneline
+cd 
+ls
+cd ..
+mkdir rmdir touch grep 
+git  merge 
+git diff
+ls -1
+ls -L
+
+
+>>>>>>> 79e3707dcb6156dd10067b5c613327db93dec89d
 
  
  
