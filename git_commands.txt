@@ -169,6 +169,40 @@ it has http and ssh links of it
 
 Now I am added
 
+git config --global user.email and user.name
+git init
+git status
+git add . or --all
+git commit -m"message"
+git remote add origin 
+git remote set -url
+git remote -v
+git remote remove 
+git push origin master
+git push   -u origin master
+git push origin master --force
+git pull
+git pull origin master -allow--unrelated-histories
+git fecth origin
+git log 
+git log -oneline
+git branch 
+git switch branch name
+git checkout -b
+git merge 
+git branch -d delete 
+git diff
+git clone
+git reset
+git revert
+git restore
+ls
+mkdir,rmdir
+touch
+cd cd..
+grep
+
+
 
 
 
