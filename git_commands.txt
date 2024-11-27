@@ -200,6 +200,9 @@ cd ..
 mkdir rmdir touch grep 
 git  merge 
 git diff
+ls -1
+ls -L
+
 
 
  
