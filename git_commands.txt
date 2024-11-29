@@ -271,7 +271,16 @@ CI mostly using by developer will develop the code if error rectify solve the er
 CI&CD tools are JEnkins etc,, after CI will do CD most probably this Job belongs to the Devops becoz after CI goes into Staging Area.
 CI & CD tool mostly developer part is the CI(Continous integeration it means write code ,Test it,if errors ,again write code ,Tests if everthing is good "push into branch after checking it will merge to the master branch"
 and it will go into the CD pipe line process in CD(Continous Develiever or deployment )here code go into staging areas and User Acceptance Testing or some other after wards move into the Production server
+<<<<<<< HEAD
 >>>>>>> 0a0fd944a9ef8f16591e7fb8aeae3387e9e2ac8c
+=======
+bash: MERGING: command not found
+error: Pulling is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+
+>>>>>>> 84ba2b7375786ed3ea9d8dd3c54a2b905ffe9c6a
 
 
 
