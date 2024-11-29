@@ -252,12 +252,9 @@ git restore
 git reset
 git fetch origin 
 over the https mostly now using the ssh  for unsecured networks connections
-now  I need to learn CI/CD pipeline
-CI means continous Integration and CD means Continous deployment or continous Delivery (two names becoz it depends)
-CI mostly using by developer will develop the code if error rectify solve the error and run the test cased and integrate with git and other developes also will be know who written the code
-CI&CD tools are JEnkins etc,, after CI will do CD most probably this Job belongs to the Devops becoz after CI goes into Staging Area.
-CI & CD tool mostly developer part is the CI(Continous integeration it means write code ,Test it,if errors ,again write code ,Tests if everthing is good "push into branch after checking it will merge to the master branch"
-and it will go into the CD pipe line process in CD(Continous Develiever or deployment )here code go into staging areas and User Acceptance Testing or some other after wards move into the Production server
+now  I need to learn CI/CD pipeline of git and GitHub.
+git remote remove 
+
 
 
 
@@ -265,8 +262,6 @@ and it will go into the CD pipe line process in CD(Continous Develiever or deplo
 
 
  
- 
-
 
 
 
