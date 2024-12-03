@@ -371,6 +371,44 @@ LinkedIn Git commands
 𝟮𝟱. 𝗴𝗶𝘁 𝗿𝗲𝘀𝗲𝘁 --𝗵𝗮𝗿𝗱: Resets everything to a previous commit, erasing all uncommitted changes.
 
 
+Date :12-3-2024
+git config --global user.name
+git config --global user.email
+git init
+git status
+git add 
+git add . or --all
+git commit -m
+git remote 
+git remote -v
+git remote add origin "https or ssh link"
+git remote set -url origin
+git push origin branch main
+git push 
+git clone
+git pull origin master
+git push origin branch name --force
+git pull // pull is combination of merge and fetch
+git pull origin branch -allow-unrelated-histories
+git branch -A
+git branch -D //to delete branch
+git merge 
+git reset --hard
+git restore file name
+git revert
+git stash
+git log
+git log --oneline
+git fetch origin 
+git rebase //re write the commit history 
+git checkout
+git switch 
+git checkout -b
+git diff
+ls 
+mkdir,rmdir,cat, touch, pwd, echo, grep,rm,cp,clear,cal,cd
+
+
 
 
 
