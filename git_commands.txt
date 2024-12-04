@@ -410,6 +410,74 @@ mkdir,rmdir,cat, touch, pwd, echo, grep,rm,cp,clear,cal,cd
 
 
 
+Top Tricky  JAVA Questions 
+
+1. Why Java is not 100% Object-oriented
+2. Why pointers are not used in Java
+3. What is JIT compiler in Java
+4. Why String is immutable in java
+5. What is a marker interface
+
+6. Can you override a private or static method in Java
+7. Does “finally” always execute in Java
+8. How Can You Make a Class Immutable
+9. What is singleton class in Java and how can we make a class singleton?
+10. How to break a Singleton pattern
+
+11. Does Java support multiple inheritances
+12. Can you access a non-static variable in the static context
+13. is it possible to load a class by two ClassLoader
+14. Can you explain how “Inheritance” and “Composition” are different
+15. What is the best candidate for the HashMap Key
+
+16. Can we use a default constructor of a class even if an explicit constructor is defined
+17. If two threads have same priority which thread will be executed first
+18. Can we serialize static variables in java
+19. What is a deadlock in Java, and how can you create one programmatically
+20. Will the ‘finally’ block execute if you put the return statement or System. exit () on the ‘try‘ or ‘catch‘ block?
+
+
+
+
+Date :12/4/2024
+
+git config --global user.name & user.email
+git --version
+git init
+git status
+git add or add . or add -all
+git commit -m "message"
+git remote -v
+git remote 
+git remote add orgin "https link"
+git remote set -url "https or ssh"
+git push -u origin  branch name
+git push origin branch name --force
+git branch 
+git branch -d to delete branch
+git branch -a
+git switch branch name
+git checkout branch name
+git checkout -b
+git  merge 
+git clone
+git pull origin branch name // pull is a comibination of the fetch and origin 
+git pull origin branch  -allow--unrelated-histories
+git pull
+git fetch origin
+git rebase 
+git restore 
+git reset --hard
+git revert
+git diff
+git  
+𝟮𝟯. 𝗴𝗶𝘁 𝗰𝗵𝗲𝗿𝗿𝘆-𝗽𝗶𝗰𝗸 𝗰𝗼𝗺𝗺𝗶𝘁_𝗶𝗱: Apply changes from a specific commit.
+Linux commands -ls,mkdir,rmdir,touch,cp,rm,cat,grep,pwd,echo,clear,cal,mv,pip,cd.*whoami
+
+
+
+
+
 
 
 
