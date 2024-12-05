@@ -474,6 +474,52 @@ git
 𝟮𝟯. 𝗴𝗶𝘁 𝗰𝗵𝗲𝗿𝗿𝘆-𝗽𝗶𝗰𝗸 𝗰𝗼𝗺𝗺𝗶𝘁_𝗶𝗱: Apply changes from a specific commit.
 Linux commands -ls,mkdir,rmdir,touch,cp,rm,cat,grep,pwd,echo,clear,cal,mv,pip,cd.*whoami
 
+Date :12/5/2024
+git --version
+git config --global user.name&email
+git init
+git status
+git add or add. or --all
+git commit -m
+git remote -a
+git remote
+git remote -v
+git remote add origin
+git remote set -url ""
+git remote add origin 
+git push origin master
+git push origin ,aster --force
+git push 
+git branch
+git branch -n or -a rename
+git branch -d
+git switch
+git checkout
+git checkout-b
+git clone
+git pull origin master
+git pull origin master -allow-unrelated-histories
+git pull //comibination of fetch and merege
+git merge 
+git fectch origin 
+git reset 
+git reset --hard
+git revert 
+git restore
+git rebase
+git stash
+git log
+git log -oneline
+git fetch --head
+𝟭𝟯. 𝗴𝗶𝘁 𝗹𝗼𝗴 --𝘀𝘁𝗮𝘁: Show commit logs with stats.
+
+Linux commands
+ls
+grep
+cd mkdir rmdir cp cat echo pwd rm touch clear cal whoami 
+mv pip install locate man 
+
+
 
 
 
