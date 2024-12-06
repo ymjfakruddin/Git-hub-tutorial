@@ -422,7 +422,7 @@ Top Tricky  JAVA Questions
 7. Does “finally” always execute in Java
 8. How Can You Make a Class Immutable
 9. What is singleton class in Java and how can we make a class singleton?
-10. How to break a Singleton pattern
+10. How to break a Singleton pattern --not completed
 
 11. Does Java support multiple inheritances
 12. Can you access a non-static variable in the static context
@@ -523,6 +523,165 @@ mv pip install locate man
 
 
 
+
+
+
+
+
+//This program says that while we are using the Integer - Type Casting  -128 == 127 it will be true after this range i will not be equal it is false only  becoz of Memory space 
+class Check 
+{
+	public static void main(String[] args) 
+	{
+		//System.out.println("Hello World!");
+
+      Integer a = 10;
+	  Integer b = 10;
+	   if(a == b)
+		{
+		   System.out.println("True");
+		}
+		else
+		{
+			System.out.println("False");
+		}
+	Integer c = 287;
+	Integer d = 287;
+		if(c == d)
+		{
+			System.out.println("True");
+		}
+		else
+		{
+			System.out.println("False");
+		}
+     }
+}
+
+
+
+
+https://www.youtube.com/watch?v=oAja8-Ulz6o
+
+Date :12/6/2024
+git --version
+git config --global user.name & user.email
+git init
+git status
+git add or add . or add --all
+git commit -m
+git cherry-pick commit id
+git remote -v ,-a
+git remote set -URL origin 
+git remote add origin
+git remote 
+git push origin master
+git push
+git push origin master --force
+git clone
+git pull 
+git pull origin master
+git pull origin master  -allow--unrelated-histories
+git stash
+git diff
+git revert
+git restore
+git rebase
+git reset --hard
+git reset
+git merge
+git branch 
+git branch -n 
+git branch -d
+git checkout
+git checkout -b
+git switch
+git log
+git log -oneline
+git log stat
+git fetch origin
+git --version
+
+Linux commands
+ls, cd,grep,mv,rm,mkdir,rmdir,cp,touch,locate ,clear,cal,cp,cat,pip,whoami,date,ip,
+
+
+
+𝟏. 𝐃𝐒𝐀 𝐁𝐚𝐬𝐢𝐜𝐬
+- Time Complexity (Big-O, Big-Theta, Big-Omega)
+- Space Complexity
+- Recursion (Base Case, Recursive Relations)
+- Divide and Conquer
+- Iterative vs Recursive Approaches
+
+𝟐. 𝐀𝐫𝐫𝐚𝐲𝐬
+- Basics: Declaration, Initialization, Traversal
+- Operations: Insertion, Deletion, Searching
+- Techniques: Prefix Sum, Sliding Window, Two-Pointer
+- Problems: Kadane's Algorithm, Subarray Sums
+
+𝟑. 𝐒𝐭𝐫𝐢𝐧𝐠𝐬
+- Basics: Character Arrays, String Manipulations
+- Algorithms: KMP, Rabin-Karp, Z-Algorithm
+- Problems: Palindromes, Anagrams, Pattern Matching
+- Data Structures: Trie (Prefix Tree)
+
+𝟒. 𝐋𝐢𝐧𝐤𝐞𝐝 𝐋𝐢𝐬𝐭𝐬
+- Types: Singly, Doubly, Circular
+- Operations: Creation, Insertion, Deletion, Traversal
+- Problems: Reversing, Detecting Loops (Floyd’s Cycle Detection), Merging
+
+𝟓. 𝐒𝐭𝐚𝐜𝐤𝐬 𝐚𝐧𝐝 𝐐𝐮𝐞𝐮𝐞𝐬
+- Stack Operations: Push, Pop, Peek
+- Problems: Balanced Parentheses, Next Greater Element
+- Queue Variants: Circular Queue, Deque
+- Applications: BFS, Sliding Window Maximum
+
+𝟔. 𝐓𝐫𝐞𝐞𝐬
+- Basics: Binary Tree, Binary Search Tree (BST)
+- Traversals: Inorder, Preorder, Postorder, Level Order
+- Advanced Trees: AVL, Red-Black, Segment Trees
+- Problems: Lowest Common Ancestor, Diameter, Path Sums
+
+𝟕. 𝐆𝐫𝐚𝐩𝐡𝐬
+- Representations: Adjacency Matrix, Adjacency List
+- Traversals: BFS, DFS
+- Algorithms: Dijkstra’s, Bellman-Ford, Kruskal’s, Prim’s
+- Problems: Cycle Detection, Connected Components, Bipartite Graphs
+
+𝟖. 𝐇𝐚𝐬𝐡𝐢𝐧𝐠
+- Hash Tables and Hash Functions
+- Collision Handling: Chaining, Open Addressing
+- Problems: Frequency Counts, Subarray Sums, Duplicates
+
+𝟗. 𝐃𝐲𝐧𝐚𝐦𝐢𝐜 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 (𝐃𝐏)
+- Basics: Overlapping Subproblems, Optimal Substructure
+- Classic Problems: Fibonacci, Knapsack, Climbing Stairs
+- Advanced: Matrix Chain Multiplication, LIS, DP on Trees
+
+𝟏𝟎. 𝐆𝐫𝐞𝐞𝐝𝐲 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬
+- Basics: Greedy Approach for Optimization
+- Problems: Activity Selection, Fractional Knapsack, Huffman Encoding
+
+𝟏𝟏. 𝐁𝐚𝐜𝐤𝐭𝐫𝐚𝐜𝐤𝐢𝐧𝐠
+- Basics: Exploring All Possibilities
+- Problems: N-Queens, Sudoku Solver, Permutations
+
+𝟏𝟐. 𝐒𝐨𝐫𝐭𝐢𝐧𝐠 𝐚𝐧𝐝 𝐒𝐞𝐚𝐫𝐜𝐡𝐢𝐧𝐠
+- Sorting Algorithms: Bubble, Merge, Quick, Heap Sort
+- Searching Techniques: Binary Search, Lower/Upper Bounds
+- Problems: K-th Smallest/Largest Element
+
+𝟏𝟑. 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐓𝐨𝐩𝐢𝐜𝐬 
+- Segment Trees and Fenwick Trees
+- Disjoint Set Union (DSU)
+- Graph Algorithms: Topological Sorting, Floyd-Warshall, Tarjan’s Algorithm
+- Tries and Suffix Arrays
+
+𝟏𝟒. 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐞 𝐚𝐧𝐝 𝐎𝐩𝐭𝐢𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧
+- Problem Solving on LeetCode, HackerRank, Codeforces
+- Focus on Constraints and Edge Cases
+- Competitive Programming Contests for Speed and Skills
 
 
 
