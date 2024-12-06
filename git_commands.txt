@@ -687,6 +687,49 @@ ls, cd,grep,mv,rm,mkdir,rmdir,cp,touch,locate ,clear,cal,cp,cat,pip,whoami,date,
 
 
 
+Date: 12/7/2024
+
+git --version
+git config --global user.name and user.email
+git init
+git status
+git add or add. or add --all
+git commit -m
+git remote
+git remote -v
+git remote -a
+git remote add origin
+git remote set -url
+git push 
+git push origin master
+git push origin master --force
+git clone
+git pull 
+git fetch origin 
+git pull origin  branch name
+git pull origin master -allow -unrelated--histories
+git branch
+git branch -n
+git branch -d
+git checkout
+git checkout -b
+git diff
+git switch
+git rebase
+git revert
+git reset  --hard
+git restore
+git reset
+git cherry-pick commit id //this git command is used for the to add the commit to another without branching the another branch
+git log 
+git log -oneline
+git log stat
+git merge
+git show commit_id
+Linux commands:ls,cd,cp,mv,rm,touch,cat,dir,mkdir,rmdir,pwd,clear,date,locate,cal,grep,vi,pip,whoami,ip,echo,*uname,*sort
+
+
+
 
 
 
