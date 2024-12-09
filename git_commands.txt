@@ -727,6 +727,117 @@ git log stat
 git merge
 git show commit_id
 Linux commands:ls,cd,cp,mv,rm,touch,cat,dir,mkdir,rmdir,pwd,clear,date,locate,cal,grep,vi,pip,whoami,ip,echo,*uname,*sort
+Date: 12/8/2024
+git --version
+git config -global user.name & user.email
+git init
+git status
+git add or add . or add -all
+git commit -m 
+git cherry -pick commit id //it is used to commit for another branch without commit
+git remote
+git remote -v
+git remote -n 
+git remote set -url
+git remote  add origin
+git clone
+git push origin master
+git push origin master --force
+git push origin master
+git pull 
+git pull origin master
+git pull -allow-unrelated-histories
+git log
+git log -oneline
+git log stat
+git reset
+git reset --hard
+git rvert
+git rebase
+git fetch origin
+git merge
+git branch 
+git branch -a
+git checkout 
+git checkout -b
+git switch
+Linux commands 
+ls,cd,rm,touch,cp,pwd,rmdir,mkdir,pip,echo,whoami,grep,locate,clear,date,cal,ip
+
+
+Spring Boot Roadmap
+
+PHASE 1 - Basics
+
+• Creating a spring boot project using spring initializr
+• Maven and gradle build tools
+• Annotations
+• Profiles and environment-specific configurations
+• @getmapping, @postmapping, @putmapping, @deletemapping
+• Handling path variables and request parameters
+• Setting up database connection (h2, mysql, postgresql)
+• Using jparepository and crudrepository
+• Introduction to spring boot devtools
+• Enabling hot reloading
+• Spring batch, scheduling and cron expressions
+
+
+PHASE 2-Intermediate
+
+• Using @controlleradvice and @exceptionhandler
+• Custom error responses and exception classes
+• Global exception handling
+• Basic authentication
+• Configuring security for apis
+• Implementing jwt (json web tokens) for stateless authentication
+• Introduction to hateoas
+• Versioning rest apis (uri, parameter, headers)
+• Unit testing with junit and mockito
+• Writing integration tests with spring boot test
+• Testing restful services with mockmvc
+• Exploring actuator endpoints
+• Creating custom health indicators
+
+
+PHASE 3 - Advanced
+
+• Using @profile annotation
+• Configuring environment-specific beans
+• Switching profiles for different environments
+• Setting up a spring cloud project
+• Key components of spring cloud
+• Setting up eureka server
+• Registering microservices with eureka
+• Service discovery in action
+• Introduction to api gateway
+• Setting up spring cloud gateway
+• Configuring routes and filters
+• Setting up spring cloud config server
+• Managing configuration in a centralized repository
+• Configuring spring boot applications to use config server
+
+
+PHASE 4 - Microservices
+
+• Introduction to inter-service communication
+• Using resttemplate for synchronous communication
+• Using feign client for simplified service calls
+• Setting up resilience4j
+• Configuring circuit breakers, retry in microservices
+• Introduction to distributed tracing
+• Setting up spring cloud sleuth
+• Visualizing traces with zipkin
+• Introduction to spring cloud bus
+• Integrating with a message broker (rabbitmq, kafka)
+• Broadcasting configuration changes across services
+• Introduction to event-driven architecture
+• Setting up spring cloud stream
+
+This roadmap guide you through the essential skills and concepts.
+
+Spring Boot from Basics to Advanced (All Videos are in English)
+https://lnkd.in/gz2A5ih2
+
 
 
 
