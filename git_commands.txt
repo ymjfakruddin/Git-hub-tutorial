@@ -839,6 +839,20 @@ Spring Boot from Basics to Advanced (All Videos are in English)
 https://lnkd.in/gz2A5ih2
 
 
+Date:12/11/2024
+git --version,git config -global user.name & user.email;
+git init,git status,git add or add . or add -all,git commit -m "message"
+git remote,git remote -v,git remote remove,git remote -a,git remote add origin ,git remote set -url origin,
+git pull ,git pull origin branch name;git pull origin branch --force.
+git clone,git pull ,git pull origin branch,git pull origin branch ,git pull origin branch -allow-unrelated-history,pull is a comnination of fetch and merge
+git branch ,git branch -a,git branch -d,git checkout,git checkout -b,git switch,git merge,git cherry-pick "commit_id"
+git log ,git log stat,git log -oneline,git reset --hard,git revert,git rebase,git restore ,git reset,git fetch origin
+
+Linux Commands:ls,cd,mkdir,rmdir,rm,cp,cat,touch,ip,locate,whoami,pwd,pip,echo,clear,date,cal,grep,
+
+Restful services for APi 
+REST means representation of state transfer introduced in 2000 by fielding i.e.., CRUD operation get,put,post,delete{get - read,post-create,put - update,delete -delete}
+
 
 
 
