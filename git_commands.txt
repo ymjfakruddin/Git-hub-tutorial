@@ -851,7 +851,29 @@ git log ,git log stat,git log -oneline,git reset --hard,git revert,git rebase,gi
 Linux Commands:ls,cd,mkdir,rmdir,rm,cp,cat,touch,ip,locate,whoami,pwd,pip,echo,clear,date,cal,grep,
 
 Restful services for APi 
-REST means representation of state transfer introduced in 2000 by fielding i.e.., CRUD operation get,put,post,delete{get - read,post-create,put - update,delete -delete}
+REST means representation of state transfer introduced in 2000 by fielding i.e.., CRUD operation get,put,post,delete{get - read,post-create,put - update,delete -delete}In springboot u will use in the rest controller .
+
+HTTPS methods are the "GET,POST,Delete,PUT"
+
+
+Date :11/12/2024
+git --version
+git config --global user.name & user.email,git init,git status ,git add . or -all , git commit -m
+git remote ,git remote -a, git remote -v, git remote add origin ,git remote remove ,git remote set -url origin 
+git push ,git push origin branch name,git push origin brnach name --force
+git clone git fetch origin,git pull ,git pull origin branch name , -allow-unrelated--histories 
+git branch ,git  branch -a ,git branch -d,git merge ,git cherry -pick commit_id,git checkout,git checkout -b ,git switch
+git revert --hard,git revert,git reset ,git restore ,git rebase,git log stat,git log ,git log --oneline,git diff,git show commit_id
+Linux commands:ls,cd,mkdir,rmdir,touch,cp,cat,echo,pwd,pip,locate,clear,cal,date,grep,ip,whoami
+
+REstful web service (CRUD operation) get,put,post,delete - stateless and archeitural level  the request in the form of CRUD return client will get the data either in the form of JSON or XML Format   restful services are the  HTTPS method get post put delete  and it was specific  error lable 200ok 400not found 404 resource not found.
+
+
+
+
+
+
+ 
 
 
 
