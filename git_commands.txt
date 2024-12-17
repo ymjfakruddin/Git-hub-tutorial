@@ -868,6 +868,31 @@ Linux commands:ls,cd,mkdir,rmdir,touch,cp,cat,echo,pwd,pip,locate,clear,cal,date
 
 REstful web service (CRUD operation) get,put,post,delete - stateless and archeitural level  the request in the form of CRUD return client will get the data either in the form of JSON or XML Format   restful services are the  HTTPS method get post put delete  and it was specific  error lable 200ok 400not found 404 resource not found.
 
+Date 16/12/2024
+git --version,git config --global user.email&user.name,git init,git status,git add,add .,add --all,git commit -m
+git remote -v,git remote,git remote -a,git remote add origin,git remote set -url,
+git push ,git push origin branch name,git push origin branch name ,git push origin branch name --force -it will overide the files 
+git clone,git pull ,git pull origin branch name,git pull origin branch name -allow-unrelated--histories,git fetch origin,git merge
+git branch ,git branch -a,git branch -d,git switch,git checkout ,git checkout -b
+git reset,git revert,git restore,git diff,git log ,git log --oneline,git log -stat,git  cherry -pick "commit id",git rebase,git show commit_id,git revert --hard
+
+Linux commands:ls,cd,mkdir,rmdir,cp,mv,clear,cal,date,touch,echo,pwd,whoami,locate,ip,pip,cat,grep.
+
+REST ful web services:get,delete,put,post
+Date : 17/12/2024
+ Microservice  
+ Controller,service,model,database,hibernate ,In Controller -Response Entity will be there.
+git --version,git config --global user.name & user.email ,git init,git status,git add or add . or add -all,git commit -m
+git remote,git remote -v,git remote add origin ,git remote set -url,git remote remove,git pull,git pull origin  branch name 
+,git pull origin branch name --force ,git clone, git pull ,git pull  origin branch name ,pull is a combination of merge and fetch 
+git fetch origin , git branch ,git branch -d to delete the branch ,git switch , git checkout ,git checkout -b,git diff,git log -stat,git cherry-pick "commit_id".git show commit_id,git log .git log -oneline,git restore ,git revert ,git reset,git reset --hard,git merge,git rebase,git 
+Linux commands :ls ,cd ,grep,whoami,locate,mkdir,rmdir,touch,echo,rm,cat,cp,date,clear,cal,pip,pwd
+
+
+
+
+
+
 
 
 
