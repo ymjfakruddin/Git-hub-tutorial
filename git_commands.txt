@@ -889,6 +889,20 @@ git fetch origin , git branch ,git branch -d to delete the branch ,git switch , 
 Linux commands :ls ,cd ,grep,whoami,locate,mkdir,rmdir,touch,echo,rm,cat,cp,date,clear,cal,pip,pwd
 
 
+Date :12/19/2024
+git --version,git init,git config -global user.name & user.email,git status ,git add ,add . ,add -all,git commit -m,
+git remote ,git remote add origin ,git remote set -url origin ,git push,git push origin branch name ,git push origin --force
+git clone,git pull ,git pull origin branch name --allow-unrelated--histories , git fetch,git branch.git branch name ,git switch ,git branch -d,git checkout ,git checkout -b,git merge ,git cherry-pick "commit id"
+git reset,git reset --hard,git revert,git restore ,git log ,git log stat,git log --oneline,git diff,git remote remove
+linux commands:
+ls,rm.cd,copy,rmdir,mkdir,touch,pwd,locate,pip,grep,whoami,date,cal,clear
+
+Time complexityO(1), O(n),O(log N),O(n2),o(n logn),o(2n),o(n!)
+in system computations are - 10^8 time limit exceeded.
+O(1),O(log N),O(N),O(N log N),O(N^2),O(n^3),O(2n),O(n!)
+
+
+
 
 
 
