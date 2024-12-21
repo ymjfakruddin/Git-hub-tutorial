@@ -901,6 +901,15 @@ Time complexityO(1), O(n),O(log N),O(n2),o(n logn),o(2n),o(n!)
 in system computations are - 10^8 time limit exceeded.
 O(1),O(log N),O(N),O(N log N),O(N^2),O(n^3),O(2n),O(n!)
 
+date 21/12/2024
+git --version,git init,git config -global user.name & user.email ,git status ,git add or add .or add -all, git commit -m""
+git remote ,git remote -v,git remote remove,git remote set-url origin ,git remote add origin 
+git push ,git push origin branch name,git push origin branch name --force
+git clone ,git pull,git pull origin branch name ,git pull origin branch name -allow-unrelated-histories,git fetch origin ,git merge,
+git branch ,git branch -a,git branch -d,git switch, git checkout,git checkout -b
+git reset,git reset --hard,git revert,git restore,git diff ,git log ,git log stat,git log -oneline,git cherry -pick"commit_id",git rebase
+linux commands:
+cd,mkdir,rmdir,ls,rm,cp,rm,touch,pwd,pip,grep,whoami,locate,date,cal,clear,cat,echo,
 
 
 
