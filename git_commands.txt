@@ -909,7 +909,76 @@ git clone ,git pull,git pull origin branch name ,git pull origin branch name -al
 git branch ,git branch -a,git branch -d,git switch, git checkout,git checkout -b
 git reset,git reset --hard,git revert,git restore,git diff ,git log ,git log stat,git log -oneline,git cherry -pick"commit_id",git rebase
 linux commands:
-cd,mkdir,rmdir,ls,rm,cp,rm,touch,pwd,pip,grep,whoami,locate,date,cal,clear,cat,echo,
+cd,mkdir,rmdir,ls,rm,cp,rm,touch,pwd,pip,grep,whoami,locate,date,cal,clear,cat,echo
+
+time complexity:
+it will calculate the total no of computation of cpu it means no of cycles 10^8   Unit of time
+three types  big O omega ,theta in worst case we will go with the Big O
+
+O(1).O(log N),O(N).O(N lOG N),O(n^2),O(2n),O(n!)
+
+Linear Data structures:Array-completed
+                 LinkedList -SL,DL,CL
+                Single Linked list completed from scratch.
+                Doubly Lin
+class SingleListsdf9:57 PM 12/21/2024`2
+{
+Node head;
+class Node
+{
+int data;Node next;
+public Node (int d){ data = d;next = null}}
+public void createSingliList(int d)
+{
+Node newNode = new Node(d);
+if(head == null)
+{
+head = newNode;
+}
+else
+{
+Node tail = head;
+while(tail.next != null)
+{
+tail = tail.next;
+}
+tail.next = newNode;
+}
+
+another logic for singly linked list
+we're adding the 
+Node tail;
+if(head == null)
+{
+head = tail = newNode;
+}
+else{
+tail.next = newNode;
+tail = newNode;
+}
+
+8:40 AM 12/22/2024
+git --version,git init,git status,git add or add . or add -all,git commit -m"",git config -global user.name & user.email,
+git remote ,git remote -v,git remote remove,git remote add origin ,git remote set -URL,
+git push ,git push origin branch name ,git push origin branch name --force
+git clone,git pull origin branch name ,git pull ,git  pull origin branch -allow-unrelated-histories
+git fetch origin,git merge branch naem , git branch,git branch -a,git brnach -d,git switch,git checkout,git checkout -b
+git reset,git reset -hard,git restore,git revert,git rebase,git diff,git log ,git log stat,git log -oneline,
+git cherry -pick"commit id"
+
+Linux commands :cd,mkdir,rmdir,touch ,cat,rm,cp,echo,pip,whoami,ls,clear,locate,pwd,grep,pip,cal,date
+time Complexity:
+O(1),O(log N),O(N),O(N log N),O(N^2),O(N^3),O(2N),O(n!);
+
+LineaR DATA STRUCTURES: 
+Array - compelted from scratch.
+Linkedlist - completed(singly linked list,Double linked  list)
+Stack - pending 
+
+
+
+
+                
 
 
 
