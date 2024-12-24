@@ -975,22 +975,25 @@ O(1),O(log N),O(N),O(N log N),O(N^2),O(N^3),O(2N),O(n!);
 LineaR DATA STRUCTURES: 
 Array - compelted from scratch.
 Linkedlist - completed(singly linked list,Double linked  list)
-Stack  data structures - pending 
+Stack  data structures - pending  
+
+8:40 AM 12/24/2024
 
 
+git --version,git init,git config -global user.name & user.email ,git status ,git add or add . or add -all ,git commit -m
+git remote,git remote -v,git remote add origin,git remote set -url,git remote remove,git remote -a
+git push ,git push origin branch name ,git  push origin branch name --force
+git clone ,git pull origin branch name ,git pull origin branch -allow-unrelated-histories 
+git fetch origin,git merge,git branch ,git branch -d,git branch ,git switch,git checkout,git checkouyt -b,git diff,git reset
+git revert ,git restore,git revert --hard,git cherry -pick"commit_id",git rebase,git log ,git log stat,git log -oneline
 
+Linux Commands:
+ls,cd,mkdir,rmdir,touch,copy,cp,rm,cat,echo,pip,whoami,grep,pwd,cal,clear,date,
 
-
-
-                
-
-
-
-
-
-
-
-
+Time Complextiy:Total No pof computations taken by the cppu -max -10^8,
+time complexity is calculated by the unif of time 
+BIg O ,Omege,theta,in worst case we will go with the Big O
+O(1),O(log N),O(N),O(N log N),O(N^2),O(2N),O(n!)
 
 
 
