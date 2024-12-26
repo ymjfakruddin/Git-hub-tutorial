@@ -995,10 +995,38 @@ time complexity is calculated by the unif of time
 BIg O ,Omege,theta,in worst case we will go with the Big O
 O(1),O(log N),O(N),O(N log N),O(N^2),O(2N),O(n!)
 
+ How to create the pull request 
+steps from starting onwords
+1.clone the repository in u r local machine 
+2.create the new branch 
+3.make changes and add the files 
+4.commit it , push it,
+5,go to the github and u will see the compare and pull request button press on it ,
+give title and description what changes u made it and wt files or any ohter things added 
+6.After that press on the pull request 
 
+8:41 AM 12/26/2024
+git --version,git init,git config -global user.name& user.email,git status,git add or add. or add -all ,git commit -m
+git remote,git remote -v,git remote -a, git remote add origin ,git remote set -url,git remote remove
+git push,git push origin branch name ,git push --upstream origin branch name ,git push origin branch name  --force
+git clone,git merge branch name,git fetch origin,git pull ,git pull origin branch name ,git pull origin branch name -allow-unrelated-histories
+git reset,git reset --hard,git restore, git revert,git log,git log -oneline,git log -stat,git diff,git cherry -pick"commit_id",
+git branch ,git branch -d;git switch ,git checkout -b,git checkout ;
 
- 
+Git PR reequest right 
+1.clone the project i mean master branch 
+2.create the new branch,
+3.make changes to the code or add the files 
+4.push branch into the same address after commit only.
+5.go to the github and u will see the compare & pull request press onit and give description what change made and other files or other  things added into it
+6.after that press on the pull request
 
+Linux commands :cd,ls,mkdir,rmdir,touch,cp,mv,cat,grep,pwd,echo,whoami,pip,clear,cal,date,locate
+Time Complexity:O(1),O(log N),O(N),O(N log N),O(N^2),O(N^3),O(2n),O(!N)
+Big O ,theta,omega
+
+Data Structures:
+Arrays,linkedlist,stacks -fixed size completed,dynamic size pending:
 
 
 
