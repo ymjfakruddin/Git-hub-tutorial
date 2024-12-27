@@ -1026,7 +1026,38 @@ Time Complexity:O(1),O(log N),O(N),O(N log N),O(N^2),O(N^3),O(2n),O(!N)
 Big O ,theta,omega
 
 Data Structures:
-Arrays,linkedlist,stacks -fixed size completed,dynamic size pending:
+Arrays,linkedlist,stacks -fixed size completed,dynamic size pending:need to complete today
+Stack data structure is linear 
+it has the certain principle to create a stack datastructure
+1.push
+2.pop
+3.peek
+4.isEmpty
+Stack data structure follow the LIFO principles (LIFO means Last In First Out)
+it can be created by the two ways 1.fixed size  2.Dynamic  size
+
+Stack data structure creation:
+
+Arrays we can use both fixed and dynamic 
+Singly Linked List is for dynamic 
+
+10:09 AM 12/27/2024
+git --version,git init,git config -global user.name & user.email,git status ,git add or add. or add -all ,git commit -m
+git remote ,git remote -v,git remote add origin ,git remote set -url origin,git remote remove
+git push,git push -u origin branch name ,git push origin branch name,git push origin branch name --force
+git clone ,git pull ,git pull origin branch name ,git pull origin branch name allow--unrelated-histories.git fetch origin ,git merge
+git branch,git branch -a,git branch -d,git switch,git checkout,git checkout -b,
+git reset,git reset --hard,git revert,git restore,git rebase,git log -stat,git log -oneline,git log ,git diff,git cherry -pick"commit_id"
+
+Linux commands:cd,mkdir,rmdir,grep,touch,rm,cp,cat,pwd,locate,whoami,clear,cal,date,ls,pip,echo
+Time complexity : O(1),O(log n),O(n),O(n log n),O(n ^ 2),O(n^3),O(2n),O(n!),
+
+Data Structures:
+Arrays ,Linkedlist - singly Linked list,Doubly linked list, Stack -fixed size& dynamic size -completed
+Queue - pending today need to complete
+
+
+
 
 
 
