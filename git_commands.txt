@@ -1058,8 +1058,22 @@ Queue - pending today need to complete
 
 
 
+10:11 AM 12/30/2024
+git --version ,git init,git config --global user.name & user.email,git status,git add or add . or git add -all,git commit -m
+git remote ,git remote -v,git remote add origin,git remote set -url origin,git remote remove.
+git branch,git branch -d,git branch -a,git switch,git checkout,git checkout -b
+git push ,git push origin branch name,git -u push origin branch name ,git push origin branch name --force
+git clone ,git pull ,git pull origin branch name,git pull origin branch name -allow-unrelated-histories,git fetch origin .git merge
+git reset,git rebase,git reset --hard,git revert,git restore,git diff,git log stat,git log ,git log -oneline,git cherry -pick "commit id"
+
+Linux Commands:ls,cd,mkdir,rmdir,rm,touch,cp,cat,pwd,locate,whoami,clear,cal,date,ls,pip,echo
+TimeComplexity : O(1),O(log N),O(N),O(N log N),O(n^2),O(N^3),O(2N),O(N!).
+Big O worst case,theta,omega
 
 
+Data Structures :Array ,Linkedlist,Stack -pop,push,top-peek,isFull,isEmpty -completed
+Queue is pending;
+                
 
 
 
