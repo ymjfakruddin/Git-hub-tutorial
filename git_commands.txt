@@ -1074,7 +1074,18 @@ Big O worst case,theta,omega
 Data Structures :Array ,Linkedlist,Stack -pop,push,top-peek,isFull,isEmpty -completed
 Queue is pending;
                 
+how to raise the PR request:
+PR request means PULL REQUEST When we are a developers need to change some code or some file in the repository first we will clone into it 
+after wards create a new branch and after the all requirements changing push into the same repository go to the Github and it will be green button pull & compare request button press on it and give the name and description breifly afterwards raise the press on create pull request.
 
+Restful webservices - get ,put,post,delete
+ (CRUD opertions);
+11:03 PM 12/30/2024
+Queue is a Linear Data structures  and it has the normal queue & circular queue 
+from scratch it can be crearted using the array ,linkedlist and stack,
+most efficient way to me is the Using Linkedlist easily can create the Queue,Queue - Enqueue,Dequeue,peek(top element) and queue follows the FIFO principle
+FIFO means first in first out
+circular queue using array one logic to remember-"rear = (rear+1)%size :Here size means the array length for front also "front = (front+1)%size;
 
 
 
