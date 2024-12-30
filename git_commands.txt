@@ -1074,6 +1074,11 @@ Big O worst case,theta,omega
 Data Structures :Array ,Linkedlist,Stack -pop,push,top-peek,isFull,isEmpty -completed
 Queue is pending;
                 
+how to raise the PR request:
+PR request means PULL REQUEST When we are a developers need to change some code or some file in the repository first we will clone into it 
+after wards create a new branch and after the all requirements changing push into the same repository go to the Github and it will be green button pull & compare request button press on it and give the name and description breifly afterwards raise the press on create pull request.
+
+
 
 
 
