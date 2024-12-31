@@ -1087,6 +1087,24 @@ most efficient way to me is the Using Linkedlist easily can create the Queue,Que
 FIFO means first in first out
 circular queue using array one logic to remember-"rear = (rear+1)%size :Here size means the array length for front also "front = (front+1)%size;
 
+10:28 AM 12/31/2024
+git --version,git init,git config --global user.name &user.email,git status,git add or add. or add -all,git commit -m
+git remote,git remote -v,git remote add origin ,git remote set -url origin,git remote remove,
+git push,git push origin master,git push -u origin master,git push origin branch name --force
+git pull,git clone,git pull origin branch name,git pull origin barnch name -allow-unrelated-histories.
+git merge ,git fetch origin,git branch ,git branch -d,git branch -a,git switch,git checkout ,git checkout -b
+git reset ,git reset --hard,git revert,git rebase,git restore,git diff,git log ,git log -oneline,git log -stat,git cherry -pick"commit_id"
+
+Linux commands:ls,cd,mkdir,rmdir,touch,rm,cp,cat,pwd,locate,grep,clear,cal,date,pip,echo
+Time Complexity:
+O(1),O(log N),O(N),O(N log N),O(n^2),O(n^3),O(n!),O(2n),
+big worst ,theta -average,omega -normal case
+
+Data structure :
+Arrays and linked list,stack,Queue and circular queue also completed
+Linear Data structures completed and non linear data structures not completed  
+Binary tree -today need to complete.
+
 
 
  
