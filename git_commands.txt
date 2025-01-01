@@ -1105,6 +1105,27 @@ Arrays and linked list,stack,Queue and circular queue also completed
 Linear Data structures completed and non linear data structures not completed  
 Binary tree -today need to complete.
 
+8:44 AM 1/1/2025
+how to raise the PR request means first clone the repository and create the new branch make changes to the file ,and push into same repository and go to the github will see the green button "compare and pull "press on it  give description adn name scoll down press on the pull request it will be created the pull request
+
+git --vesrion,git init,git config -global user.name & user.email,git status,git add or add . or add -all ,git commit -m
+git  remote ,git remote -v,git remote add origin ,git remote set -url origin,git remote remove.
+git branch ,git branch -d,git branch -a, git switch,git checkout,git checkout -b,git merge ,git fetch origin,
+git push origin branch name,git push -u origin branch name,git push origin branch name --force
+git clone ,git pull ,git pull origin branch name,git pull origin branch name -allow-unrelated-histories,
+git reset,git revert ,git reset --hard,git rebase,git restore,git diff,git log ,git log -stat,git log -oneline,git cherry -pick"commit_id"
+Linux commands:ls,cd,mkdir,rmdir,touch,cat,cp,mk,pwd,grep,clear,locate,cal,date,pip,echo,
+TimeComplexity:O(1),O(log n),O(N),O(N log N),O(N^2),O(N^3),O(2N),O(!n)
+
+Data structure :Linear data structures completed ,Non- linear Data structures not completed 
+Binary tree concept need to learn
+
+Stack:push,pop,peek,isFull,isEmpty 
+Stack has the fixed size and dyanmic to create a stack we can use the array or linked list .
+
+
+
+
 
 
  
