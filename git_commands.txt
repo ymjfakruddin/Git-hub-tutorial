@@ -1123,6 +1123,27 @@ Binary tree concept need to learn
 Stack:push,pop,peek,isFull,isEmpty 
 Stack has the fixed size and dyanmic to create a stack we can use the array or linked list .
 
+8:26 AM 1/2/2025
+git --version,git init,git config --global user.name & user.email ,git status ,git add or add. or add -all,git commit -m
+git remote ,git remote -v ,git remote remove ,git remote add origin ,git remote set -url origin ,
+git push , git push origin branch name ,git -u push origin branch name ,git push origin branch name --force
+git clone ,git pull,git pull origin branch name ,git pull origin branch name -allow-unrelated-histories
+git fetch origin,git merge ,git branch,git branch -a ,git branch -d, git switch,git checkout,git checkout -b
+git revert ,git reset --hard,git restore ,git rebase, git diff,git log,git log -oneline,git log -stat,git log ,git cherry -pick "commit_id"
+
+Linux commands:
+ls,cd,mkdir,rmdir,rm,cp,cat,touh,locate,grep,pwd,clear,cal,date,pip,echo,
+Time Complexity:
+O(1),O(log N),O(n),O(N log N),O(N^2),O(N^3),O(2N),O(!N)
+
+Data structures :Linear Data Datastructures completed 
+QUeue follows the principle FIFO (first comes first out ),enque(add),deque(remove),isFull,isEmpty
+Normal Queue and circular queue(front = (front = (front+1)%size)
+front and rear ,it can created by using array or linked list and stack also
+- 
+Microservices :8:48 AM 1/12025 - started yesterdat -project 1 :difference monolithic and microservice & its port numbers
+
+
 
 
 
