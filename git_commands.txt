@@ -1161,6 +1161,13 @@ stack can be created in array or linked list and it have the fixed size and dyna
 
 Microservices need to start
 first complete microservice one project afterwards continue the non-linear data structures
+9:23 AM 1/7/2025
+git --version,git init,git config --global user.name&user.email,git status,git add or add.or add -all,git commit -m,git remote,git remote -v,git remote remove,git remote add origin,git remote set -url,git push,git push -u origin branch name,git push origin branch name --force,git clone,git pull,git pull origin master,git pull origin master -allow-unrelated-histories,git fetch origin,git merge,git branch,git branch -a,git branch -d,git switch,git checkout,git checkout -b,git reset,git reset--hard,git revert,git rebase,git restore,git diff,git log,git log -oneline,git log -stat,git cheryy -pick"Commit_id"
+Linux commands:ls,cd,mkdir,rmdir,touch,cat,cp,rm,grep,pwd,locate,whoami,pip,clear,cal,date,echo
+time complexity:O(1),O(log N),O(N),O(N Log N),O(N^2),O(N^3),O(2N),O(!n)
+Data :Non -linear ds is pending & linkedist is linear data datructure it has three types called the singly linked list ,doubly linked list ,circular linked and these are the linear data structures it has a node ,data prev addres,next.
+Microservices: project is on pending I am still doing it.
+
 
 
 
