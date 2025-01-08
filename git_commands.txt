@@ -1168,6 +1168,15 @@ time complexity:O(1),O(log N),O(N),O(N Log N),O(N^2),O(N^3),O(2N),O(!n)
 Data :Non -linear ds is pending & linkedist is linear data datructure it has three types called the singly linked list ,doubly linked list ,circular linked and these are the linear data structures it has a node ,data prev addres,next.
 Microservices: project is on pending I am still doing it.
 
+11:01 AM 1/8/2025
+git --version,git init,git global -config user.name & user.email,git status,git add or add .or add -all ,git commit -m,git remote ,git remote -v,git remote remove ,git remote add origin,git remote set -url origin,git push ,git push origin branch name ,git push -u origin brannch name ,git push origin branch name --force,git branch,git branch -d,git branch -a,git switch ,git checkout ,git checkout -b,git clone ,git pull,git pull origin ,git pull origin branch name -allow -unrelated histories ,git fetch origin,git merge ,git diff ,git reset ,git reset --hard,git revert ,git restore,git rebase,git log ,git log -stat,git log -oneline,git cherry -pick "commit_id"
+Linux commands:cd,mkdir,rmdir,touch ,cp,rm,cat,grep,ls,locate,echo,clear,cal,date,pip,whoami,pwd
+Time complexity :O(1),O(log n),O(n),O(n log n),O(n^2),O(n^3),O(2n),O(!n)
+create a pr request means in simple words clone,seprate branch ,push into it ,go to github press on compare and pull ,give name and description,and down will button "create pull request.
+
+Non-linear Data structures are pending ,
+microservices are pending.
+
 
 
 
