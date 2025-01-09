@@ -1178,6 +1178,13 @@ Non-linear Data structures are pending ,
 microservices are pending.
 git tag--need to see in google
 
+10:46 AM 1/9/2025
+git --version,git init,git global -config user.name & user.email,git status,git add or add. or -all,git commit -m,git remote,git remote -v,git remote remove,git remote set -url origin ,git remote add origin ,git push ,git push origin branch name ,git push -u origin branch name ,git push origin branch name --force ,git clone ,git fetch origin ,git merge ,git pull,git pull origin master,git push origin master -allow-unlrelated histories ,git branch ,git branch -d,git branch branch name ,git checkout,git checkout -b ,git revert ,git reset --hard,git reset,git rebase,git restore,git diff,git log ,git log -one line,git log -stat,git cherry pick_commit_id,git tag
+Timecomplexity:O(1),O(log n),O(n),O(n log n),O(n^2),O(n^3),O(2n),O(n!)
+Stack -pop,push,peek,isFUll ,isEmpty -fixed and dyanamic in size,LIFO pricnple.
+non linear is pending
+microservice : service annotation is tells that bussiness logic is present and service annotation only applicable to the class only .
+
 
 
 
