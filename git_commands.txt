@@ -1169,7 +1169,11 @@ Data :Non -linear ds is pending & linkedist is linear data datructure it has thr
 Microservices: project is on pending I am still doing it.
 
 11:01 AM 1/8/2025
-git --version,git init,git global -config user.name & user.email,git status,git add or add .or add -all ,git commit -m,git remote ,git remote -v,git remote remove ,git remote add origin,git remote set -url origin,git push ,git push origin branch name ,git push -u origin brannch name ,git push origin branch name --force,git branch,git branch -d,git branch -a,git switch ,git checkout ,git checkout -b,git clone ,git pull,git pull origin ,git pull origin branch name -allow -unrelated histories ,git fetch origin,git merge ,git diff ,git reset ,git reset --hard,git revert ,git restore,git rebase,git log ,git log -stat,git log -oneline,git cherry -pick "commit_id"
+git --version,git init,git global -config user.name & user.email,git status,git add or add .or add -all ,git commit -m,git remote ,git remote -v,git remote remove ,git remote add origin,git remote set -url origin,git push ,git push origin branch name ,git push -u origin brannch name ,git push origin
+
+
+
+ branch name --force,git branch,git branch -d,git branch -a,git switch ,git checkout ,git checkout -b,git clone ,git pull,git pull origin ,git pull origin branch name -allow -unrelated histories ,git fetch origin,git merge ,git diff ,git reset ,git reset --hard,git revert ,git restore,git rebase,git log ,git log -stat,git log -oneline,git cherry -pick "commit_id"
 Linux commands:cd,mkdir,rmdir,touch ,cp,rm,cat,grep,ls,locate,echo,clear,cal,date,pip,whoami,pwd
 Time complexity :O(1),O(log n),O(n),O(n log n),O(n^2),O(n^3),O(2n),O(!n)
 create a pr request means in simple words clone,seprate branch ,push into it ,go to github press on compare and pull ,give name and description,and down will button "create pull request.
@@ -1185,6 +1189,13 @@ Stack -pop,push,peek,isFUll ,isEmpty -fixed and dyanamic in size,LIFO pricnple.
 non linear is pending
 microservice : service annotation is tells that bussiness logic is present and service annotation only applicable to the class only .
 
+8:29 PM 1/11/2025
+git --version,git init,git global --config user.name& user.email ,git status ,git add or add. or add -all ,git commit -m,git remote,git remote -v,git remote,git remote set -url origin,git remote add origin ,git push,git push origin branch name ,git push -u origin branch name ,git push origin branch name --force ,git clone ,git merge branchname ,git fetch origin ,git pull,git pull origin branch name ,git pull origin branch name ,git pull origin branch name -allow-unrelated-histories,git branch ,git branch -d,git branch -a,git switch ,git checkout,git checkout -b ,git reset,git revert ,git reset --hard,git rebase,git restore,git log ,git log -stat,git log -oneline,git log ,git cherry -pick "commit_id",git tag //tag still i did'nt study.
+
+Linux :cd,ls,mkdir,rm,rmdir,touch,echo,cat,pwd,cal,clear,date,cp,grep,locate,whoami,pip
+Time_Complexity: O(1),O(log n),O(n),O(n log n),O(n^2),O(n^3),O(2n),O(n!).
+Linked list:singly-linked-list,doubly-linked list,circular list,Node,data,previous ,next its a pointer
+Microservice completed one application  -why data is not saving becoz of lebook dependency is not supproting to my spring boot project that's data is not saving for that reason i did added the responsentity and i checked but doesn't work and I checked with the test folder and return the code for the test case
 
 
 
