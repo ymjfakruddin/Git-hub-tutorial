@@ -1197,7 +1197,9 @@ Time_Complexity: O(1),O(log n),O(n),O(n log n),O(n^2),O(n^3),O(2n),O(n!).
 Linked list:singly-linked-list,doubly-linked list,circular list,Node,data,previous ,next its a pointer
 Microservice completed one application  -why data is not saving becoz of lebook dependency is not supproting to my spring boot project that's data is not saving for that reason i did added the responsentity and i checked but doesn't work and I checked with the test folder and return the code for the test case
 
-
+11:27 PM 1/12/2025
+git --version,git init,git global --config user.name &user.email,git status,git add ,add .or -all,git commit -m,git remote ,git remote
+git --version,git init,git global --config user.name& user.email ,git status ,git add or add. or add -all ,git commit -m,git remote,git remote -v,git remote,git remote set -url origin,git remote add origin ,git push,git push origin branch name ,git push -u origin branch name ,git push origin branch name --force ,git clone ,git merge branchname ,git fetch origin ,git pull,git pull origin branch name ,git pull origin branch name ,git pull origin branch name -allow-unrelated-histories,git branch ,git branch -d,git branch -a,git switch ,git checkout,git checkout -b ,git reset,git revert ,git reset --hard,git rebase,git restore,git log ,git log -stat,git log -oneline,git log ,git cherry -pick "commit_id",git tag //tag still i did'nt study.
 
 
 
