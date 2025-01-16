@@ -1201,7 +1201,14 @@ Microservice completed one application  -why data is not saving becoz of lebook 
 git --version,git init,git global --config user.name &user.email,git status,git add ,add .or -all,git commit -m,git remote ,git remote
 git --version,git init,git global --config user.name& user.email ,git status ,git add or add. or add -all ,git commit -m,git remote,git remote -v,git remote,git remote set -url origin,git remote add origin ,git push,git push origin branch name ,git push -u origin branch name ,git push origin branch name --force ,git clone ,git merge branchname ,git fetch origin ,git pull,git pull origin branch name ,git pull origin branch name ,git pull origin branch name -allow-unrelated-histories,git branch ,git branch -d,git branch -a,git switch ,git checkout,git checkout -b ,git reset,git revert ,git reset --hard,git rebase,git restore,git log ,git log -stat,git log -oneline,git log ,git cherry -pick "commit_id",git tag //tag still i did'nt study.
 
+10:25 AM 1/13/2025
+git --version,git init,git global --config user.name & user.email,git status ,git add or add . or add -all,git commit -m,git remote ,git remote -v,git remote remove ,git remote add origin ,git remote set -url origin,git push,git push origin branch name,git push -u origin branch name,git push origin branch name --force,git pull origin branch name,git pull,git pull origin branch name -allow-unrelated-histories,git pull -u origin branch name,git clone,git fetch origin,git merge ,git branch,git branch -a,git branch -d,git branch branchname,git switch ,git checkout,git checkout -b,git reset,git reset --hard,git revert ,git rebase,git restore,git log,git log -stat,git log -oneline,git cherry -pick"commit_id" ,git tag
 
+linux commands-ls,cd,rm,cp,mkdir,rmdir,grep,pip,clear,locate,pwd,cal,date,touch,echo
+11:10 PM 1/16/2025
+
+Git --version,git init,git global --config user.name and user.email,git status,git add ,add .or add -all,git commit -m,git remote,git remote -v,git remote remove ,git remote add origin,git remote set -url origin ,git push origin branch name ,git push -u origin branch name ,git push origin branch name --force,git pull,git pull -u origin branch name ,git pull origin branch name ,git pull origin branch name -allow-unrelated --histories,git clone,git fetch origin ,git merge ,git branch,git branch -v,git branch -d,git switch,git checkout,git checkout -b,git reset,git reset --hard,git revert,git restore,git rebase,git tag,git cherry -pick"commit _id"git log ,git log stat,git log -one line,git diff
+Linux commands :ls,cd,rmdir,mkdir,grep,pip,rm,cp,cat,clear,date,cal,whoami,echo,touch
 
 
  
