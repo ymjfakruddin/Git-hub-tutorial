@@ -1210,6 +1210,13 @@ linux commands-ls,cd,rm,cp,mkdir,rmdir,grep,pip,clear,locate,pwd,cal,date,touch,
 Git --version,git init,git global --config user.name and user.email,git status,git add ,add .or add -all,git commit -m,git remote,git remote -v,git remote remove ,git remote add origin,git remote set -url origin ,git push origin branch name ,git push -u origin branch name ,git push origin branch name --force,git pull,git pull -u origin branch name ,git pull origin branch name ,git pull origin branch name -allow-unrelated --histories,git clone,git fetch origin ,git merge ,git branch,git branch -v,git branch -d,git switch,git checkout,git checkout -b,git reset,git reset --hard,git revert,git restore,git rebase,git tag,git cherry -pick"commit _id"git log ,git log stat,git log -one line,git diff
 Linux commands :ls,cd,rmdir,mkdir,grep,pip,rm,cp,cat,clear,date,cal,whoami,echo,touch
 
+12:42 PM 1/23/2025
+git --version,git init,git config --global user.name & user.email,git status,git add or add .or add -all,git commit -m,git remote ,git remote -v,git remote add origin,git remote set -url origin,git push,git push origin branch name,git push -u origin branch name,git push origin branch name --force,git pull origin branch name -allow unrelated histories,git clone,git pull,git pull origin branch,git pull -u origin branch name,git push origin branch name,git merge,git fetch origin ,git branch ,git branch -a,git switch ,git branch -d,git remtoe remove ,git checkout,git checkout -b,git cherry -pick commit_id,git log ,git log -one line,git log -stat,git reset ,git reset --hard,git revert ,git restore,git rebase,git tag,git checkout -b,
+
+2:03 PM 1/28/2025
+git --version,git init,git config --global user.name & user.email,git status,git add or add .or add -all,git commit -m,git remote ,git remote -v,git remote add origin,git remote set -url origin,git push,git push origin branch name,git push -u origin branch name,git push origin branch name --force,git pull origin branch name -allow unrelated histories,git clone,git pull,git pull origin branch,git pull -u origin branch name,git push origin branch name,git merge,git fetch origin ,git branch ,git branch -a,git switch ,git branch -d,git remtoe remove ,git checkout,git checkout -b,git cherry -pick commit_id,git log ,git log -one line,git log -stat,git reset ,git reset --hard,git revert ,git restore,git rebase,git tag,git checkout -b,
+
+
 
  
 
